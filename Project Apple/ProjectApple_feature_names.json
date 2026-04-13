@@ -1,0 +1,16 @@
+[
+  "hour_sin",
+  "hour_cos",
+  "is_weekend",
+  "opens_last_15m",
+  "opens_last_60m",
+  "switches_last_15m",
+  "unique_apps_last_24h",
+  "time_since_last_open_min",
+  "historical_activity_score",
+  "time_since_last_ping_min",
+  "pings_last_24h",
+  "last_open_app_ChatGPT",
+  "last_open_app_Instagram",
+  "last_open_app_WhatsApp"
+]
